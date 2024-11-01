@@ -2,10 +2,6 @@
   <h1 align="center"><b>Hello there, Welcome to my profile 👋 </b></h1>
 </p>
 
-<p>
-  <h4 align="center"><b><i>"First, understand and solve the problem. Then, write the code."</i></b></h4>
-</p>
-
 <p align="center">
 <br>
 
